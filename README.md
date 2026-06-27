@@ -25,9 +25,8 @@ Web & AI    Next.js · React · Node · Supabase / Postgres (pgvector) · Anthro
 Tooling     Git · GitHub Actions (CI/CD) · Turborepo · Vitest · Docker · Unix / Linux
 ```
 
-### Featured work
+### What I'm building
 
-- **[invoice-automation](https://github.com/nicoyeni/invoice-automation)** — AI invoice-processing pipeline: watches Gmail/Drive, extracts structured data with Gemini/Claude, flags anomalies, and writes to Google Sheets. *Python · Docker.*
-- **[Emerald Solutions](https://emerald-site.vercel.app)** — the AI agent studio I co-founded. *Live site.*
+- **[Emerald Solutions](https://emerald-site.vercel.app)** — the AI agent studio I co-founded. Designing & shipping production AI agents on a Next.js · TypeScript · Supabase stack. *Live site.*
 
-> ℹ️ Most of my current code lives in **private repositories** at Emerald Solutions (production and client work). I'm happy to walk through the architecture in an interview.
+> ℹ️ Most of my code lives in **private repositories** at Emerald Solutions. I'm happy to walk through architecture and code in an interview — and I'll be open-sourcing a few standalone projects soon.
