@@ -1,10 +1,10 @@
 # Hi, I'm Nicolas 👋
 
-**B.S. Computer Science @ Cal Poly San Luis Obispo** · **Founding Engineer @ [Emerald Solutions](https://emerald-site.vercel.app)** (AI agent studio)
+**B.S. Computer Science @ Cal Poly San Luis Obispo** · **Software Engineer @ [Emerald Solutions](https://emerald-site.vercel.app)** (early-stage AI agent studio)
 
 I build full-stack AI products end to end — LLM orchestration, retrieval (RAG), and typed, tested, CI/CD-shipped web apps. On the side, I do faculty-led computer-vision research.
 
-- 🟢 **Founding engineer @ Emerald Solutions** — designing & shipping production AI agents on a Next.js + TypeScript + Supabase stack
+- 🟢 **Software engineer @ Emerald Solutions** — building & shipping production AI agents on a Next.js + TypeScript + Supabase stack
 - 🔬 **CV / ML research** — deep-learning rip-current detection (YOLOv8) on live coastal-camera feeds
 - 🧠 **Interests** — AI agents, applied ML, and cybersecurity
 - 📫 **Reach me** — nico.yenikomshian@gmail.com
@@ -27,6 +27,6 @@ Tooling     Git · GitHub Actions (CI/CD) · Turborepo · Vitest · Docker · Un
 
 ### What I'm building
 
-- **[Emerald Solutions](https://emerald-site.vercel.app)** — the AI agent studio I co-founded. Designing & shipping production AI agents on a Next.js · TypeScript · Supabase stack. *Live site.*
+- **[Emerald Solutions](https://emerald-site.vercel.app)** — an early-stage AI agent studio. Building & shipping production AI agents on a Next.js · TypeScript · Supabase stack. *Live site.*
 
 > ℹ️ Most of my code lives in **private repositories** at Emerald Solutions. I'm happy to walk through architecture and code in an interview — and I'll be open-sourcing a few standalone projects soon.
